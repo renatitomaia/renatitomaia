@@ -33,7 +33,7 @@ Plataforma integrada à API do Google Gemini (Gemini 3.6 Flash) para permitir qu
 
 ---
 
-#### 📊 Dashboard de Performance & Custos de Engenharia (Power BI)
+#### 📊 [Dashboard de Performance & Custos de Engenharia (Power BI)](https://github.com/renatitomaia/Performance-de-Obra)
 > **Modelagem dimensional e relatórios interativos para acompanhamento do avanço físico e financeiro de projetos.**
 
 Desenvolvimento de modelo de dados focado na curva S de avanço físico vs. financeiro, medições de contratos e desvios orçamentários por categoria de serviço. Integração de fontes para acompanhamento de KPIs estratégicos de diretoria.
