@@ -1,6 +1,6 @@
 # Olá, eu sou o Renato Maia 👋
 
-Analista de Dados & Desenvolvedor focado em Inteligência Artificial aplicada à Engenharia Civil e Gestão de Obras. Tenho experiência na otimização de processos de planejamento, controle orçamentário e automação de rotinas utilizando Python, SQL, Power BI e LLMs.
+Analista de Dados & Desenvolvedor focado em Inteligência Artificial, com experiência aplicada à Engenharia Civil e Gestão de Obras. Tenho experiência na otimização de processos de planejamento, controle orçamentário e automação de rotinas utilizando Python, SQL, Power BI e LLMs.
 
 ---
 
