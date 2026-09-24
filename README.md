@@ -41,7 +41,7 @@ Desenvolvimento de modelo de dados focado na curva S de avanço físico vs. fina
 
 ---
 
-#### ⚙️ Pipeline ETL Automatizado + API REST (FastAPI) *(Em Desenvolvimento)*
+#### ⚙️ [Pipeline ETL Automatizado + API REST (FastAPI)](https://github.com/renatitomaia/projeto-03-etl-fastapi)
 > **Ingestão, tratamento e consolidação de dados heterogêneos de relatórios diários de obra.**
 
 Pipeline de dados automatizado para captura de arquivos CSV, JSON e dados de medição, com validação de schemas via Pydantic, tratamento de divergências com Pandas e disponibilização via endpoints REST para integração com relatórios do Power BI.
