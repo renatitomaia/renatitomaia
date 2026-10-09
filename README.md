@@ -19,20 +19,20 @@
 
 ### 📂 Projetos em Destaque
 
-#### ❄️ [1. Modern Data Stack: Orquestração ELT corporativa](https://github.com/renatitomaia/projeto-04-elt-airflow-dbt-snowflake)
+#### 🏅 [1. Lakehouse Medallion Architecture (Databricks & PySpark)](https://github.com/renatitomaia/projeto-05-lakehouse-databricks)
+*Processamento de Big Data utilizando a arquitetura Medallion.*
+* **O que faz:** Ingestão e processamento de milhares de transações, estruturando os dados nas camadas corporativas Bronze (Raw), Silver (Cleansed) e Gold (Business Aggregations) num ambiente de computação distribuída.
+* **Tech Stack:** `Databricks` `PySpark` `Delta Lake` `Python` `Data Lake`
+
+#### ❄️ [2. Modern Data Stack: Orquestração ELT corporativa](https://github.com/renatitomaia/projeto-04-elt-airflow-dbt-snowflake)
 *Pipeline completo de Engenharia de Dados padronizado para o mercado corporativo.*
 * **O que faz:** Orquestra a ingestão e transformação de dados transacionais, utilizando **Apache Airflow** (via Docker) para agendamento, **dbt Core** para modelagem analítica e testes automáticos de qualidade, e **Snowflake** como Data Warehouse.
 * **Tech Stack:** `Apache Airflow` `dbt` `Snowflake` `Docker` `Python` `SQL`
 
-#### 🏗️ [2. Assistente Inteligente Text-to-SQL (GenAI)](https://github.com/renatitomaia/projeto-02-text-to-sql)
+#### 🏗️ [3. Assistente Inteligente Text-to-SQL (GenAI)](https://github.com/renatitomaia/projeto-02-text-to-sql)
 *Aplicação Web que traduz perguntas em linguagem natural para consultas SQL complexas.*
 * **O que faz:** Integrado à API do Google Gemini, permite que gestores consultem uma base de dados dimensional sem saber programar. Inclui validação de schema, síntese executiva gerada pela IA e gráficos dinâmicos.
 * **Tech Stack:** `Python` `Streamlit` `Google GenAI (Gemini)` `SQLite` `SQLAlchemy` `Plotly`
-
-#### ⚙️ [3. Pipeline ETL Automatizado + API REST](https://github.com/renatitomaia/projeto-03-etl-fastapi)
-*Arquitetura de extração, tratamento e consolidação de dados heterogêneos.*
-* **O que faz:** Captura ficheiros CSV/JSON e dados de medição, aplica validação estrita de schemas e trata divergências. Os dados limpos são disponibilizados via endpoints REST para consumo analítico.
-* **Tech Stack:** `Python` `FastAPI` `Pandas` `Pydantic` `SQLAlchemy`
 
 #### 📊 [4. Analytics & Modelagem Dimensional](https://github.com/renatitomaia/Performance-de-Obra)
 *Modelagem e relatórios interativos para acompanhamento de KPIs estratégicos.*
