@@ -6,7 +6,7 @@
 * 💼 **Atuação:** Engenharia de Dados, Analytics Engineering e Inteligência Artificial.
 * 🛠️ **Foco Atual:** Modern Data Stack (Airflow, dbt, Snowflake), Assistentes Inteligentes (Text-to-SQL / GenAI) e Arquiteturas Lakehouse.
 * 📍 **Localização:** Fortaleza, Ceará, Brasil
-* 🔗 [LinkedIn](#) | [GitHub](#)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/renato-maia-4b6733b2) | [GitHub](https://github.com/renatitomaia)
 
 ### 🛠️ Tecnologias e Ferramentas
 * **Engenharia de Dados & Modern Data Stack:** Apache Airflow, dbt Core, Snowflake, Docker, SQL Avançado, ETL/ELT Pipelines.
