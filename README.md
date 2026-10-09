@@ -19,7 +19,7 @@
 
 ### 📂 Projetos em Destaque
 
-#### ❄️ [1. Modern Data Stack: Orquestração ELT corporativa]https://github.com/renatitomaia/projeto-04-elt-airflow-dbt-snowflake
+#### ❄️ [1. Modern Data Stack: Orquestração ELT corporativa] https://github.com/renatitomaia/projeto-04-elt-airflow-dbt-snowflake
 *Pipeline completo de Engenharia de Dados padronizado para o mercado corporativo.*
 * **O que faz:** Orquestra a ingestão e transformação de dados transacionais, utilizando **Apache Airflow** (via Docker) para agendamento, **dbt Core** para modelagem analítica e testes automáticos de qualidade, e **Snowflake** como Data Warehouse.
 * **Tech Stack:** `Apache Airflow` `dbt` `Snowflake` `Docker` `Python` `SQL`
